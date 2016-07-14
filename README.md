@@ -13,3 +13,5 @@ Para la grabación se utilizaron los polymathboxes, Processing, Arduinos, GUitar
 El trabajo es minimalista, tanto el código HTML para las páginas es básico, para facilitar su legibilidad, y simplemente juega con código HTML sencillo.
 
 Grabado y producido por [Automata](https://www.facebook.com/nuevoautomata/) en el anti-estudio (un cuarto de habitación sin lámpara de lava, ni fantasías de rock star)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>.
