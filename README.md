@@ -1,4 +1,4 @@
-# ALbum Latency de Automata
+# Album Latency de Automata
 
 Latency es un album de música experimental y arte sonoro. Parte del fundamente de la programación y juego de contrucción sonora a través de la programación, pero también de la utilización de lenguajes para construcción de objetos físicos sonoros llamados [Polymathbox](https://polymathbox.wordpress.com/).  El album ejecuta 9 tracks simultáneos en YouTube, que debido a la latencia de apertura e inico del los videos, crea una ejecución única cada vez que se inicia la página (hacer refresh).
 
