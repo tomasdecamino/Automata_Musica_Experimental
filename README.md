@@ -4,6 +4,8 @@ Latency es un album de música experimental y arte sonoro. Parte del fundamente 
 
 Si quiere descargar el album, es decir, descargar los archivos HTML, hacer click en el botón Verde Arriba a la derecha, y luego abrir el archivo index.html para iniciar.
 
-Para la grabación se utilizaron los polymathboxes, Processing, Arduinos, GUitarra eléctrica, algunos pedales análogos y el mítico Eventide H3000.
+Para la grabación se utilizaron los polymathboxes, Processing, Arduinos, GUitarra eléctrica, algunos pedales análogos y el mítico Eventide H3000. 
+
+El trabajo es minimalista, tanto el código HTML para las páginas es básico, para facilitar su legibilidad, y simplemente juega con código HTML sencillo.
 
 Grabado y producido por [Automata](https://www.facebook.com/nuevoautomata/) en el anti-estudio (un cuarto de habitación sin lámpara de lava, ni fantasías de rock star)
