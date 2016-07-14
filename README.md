@@ -6,4 +6,4 @@ Si quiere descargar el album, es decir, descargar los archivos HTML, hacer click
 
 Para la grabación se utilizaron los polymathboxes, Processing, Arduinos, GUitarra eléctrica, algunos pedales análogos y el mítico Eventide H3000.
 
-Grabado y producido por [Automata](https://www.facebook.com/nuevoautomata/) en el anti-estudio (un curato de habitación sin lámpara de lava, ni fantasías de rock star)
+Grabado y producido por [Automata](https://www.facebook.com/nuevoautomata/) en el anti-estudio (un cuarto de habitación sin lámpara de lava, ni fantasías de rock star)
